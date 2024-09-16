@@ -27,7 +27,7 @@
   </div>
   </p>
 
-[![to view demo](https://visitcount.itsvg.in/api?id=masterfiras101&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ---
 ### 📫 𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:
 - 𝐸𝑚𝑎𝑖𝑙 : masterfiras101@gmail.com
