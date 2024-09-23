@@ -37,6 +37,8 @@
   </div>
   </p>
 
+---
+
 <p align="center">
  <h2 align="center">Github 📊 Stats</h2>
 </p>
@@ -49,7 +51,10 @@
   
  </div>
 
-
 ---
+
+<div align="center>
+ 
 ### 📫 𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:
 - 𝐸𝑚𝑎𝑖𝑙 : masterfiras101@gmail.com
+</div>
