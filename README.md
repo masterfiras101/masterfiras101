@@ -7,7 +7,7 @@
 𝑰 ❤️ 𝐵𝑎𝑐𝑘-𝐸𝑛𝑑 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 
-:vulcan_salute:𝐼 𝑝𝑢𝑡 𝑚𝑜𝑠𝑡𝑙𝑦 𝑜𝑓 𝑚𝑦 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑤𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝑤𝑖𝑡ℎ 𝐿𝑎𝑟𝑎𝑣𝑒𝑙 𝑓𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘. 
+:vulcan_salute:I mostly focus on web development using the **<span style="color:blue;">Laravel</span>** framework. 
 
 
 "I am creative and have a lot of experience in implementing many projects from Yemen. I work on web development to improve the world using high quality software. I love turning complex problems into simple things."
