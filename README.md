@@ -10,7 +10,7 @@
 :vulcan_salute:I mostly focus on web development using the **<span style="color:blue;">Laravel</span>** framework. 
 
 
-"I am creative and have a lot of experience in implementing many projects from Yemen. I work on web development to improve the world using high quality software. I love turning complex problems into simple things."
+"I work on web development to improve the world using high quality software. I love turning complex problems into simple things."
 
 ## 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠
 
