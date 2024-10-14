@@ -7,7 +7,7 @@
 𝑰 ❤️ 𝐵𝑎𝑐𝑘-𝐸𝑛𝑑 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 
-:vulcan_salute:I focus dev using **<span>Laravel</span>** framework. 
+"I focus dev using **<span>Laravel</span>** framework."
 
 
 "I work on web development to improve the world using high quality software. I love turning complex problems into simple things."
