@@ -1,13 +1,8 @@
-<p align="center">
- <h2 align="center">𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑃𝑟𝑜𝑓𝑖𝑙𝑒</h2>
-</p>
+
+## "I focus dev using **<span>Laravel</span>** framework "
 
 
-
-"I focus dev using **<span>Laravel</span>** framework."
-
-
-## 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠
+## Languages & Tools
 
 
 
