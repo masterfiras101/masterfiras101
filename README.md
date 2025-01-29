@@ -2,15 +2,10 @@
  <h2 align="center">𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑃𝑟𝑜𝑓𝑖𝑙𝑒</h2>
 </p>
 
-### 𝐼'𝑚 𝐹𝑖𝑟𝑎𝑠 𝑀𝑢ℎ𝑎𝑚𝑚𝑒𝑑
-
-"I ❤️ Back-End Development!
 
 
 "I focus dev using **<span>Laravel</span>** framework."
 
-
-"I work on web development to improve the world using high quality software. I love turning complex problems into simple things."
 
 ## 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠
 
