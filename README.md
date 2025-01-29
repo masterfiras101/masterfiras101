@@ -1,5 +1,5 @@
 
-## "I focus dev using **<span>Laravel</span>** framework "
+#I focus dev using Laravel & Vuejs Frameworks
 
 
 ## Languages & Tools
