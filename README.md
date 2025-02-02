@@ -1,8 +1,8 @@
 
-##### I focus dev using Laravel & Vuejs Frameworks
+#### I focus dev using Laravel & Vuejs Frameworks
 
 
-#### Languages & Tools
+### Languages & Tools
 
 
 
