@@ -46,6 +46,6 @@
  
 ### 📫 How to reach me:
 
-- Email : masterfiras101@gmail.com
-- Portfolio :[masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
+- Email: masterfiras101@gmail.com
+- Portfolio:[masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
   
