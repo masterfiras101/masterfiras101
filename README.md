@@ -1,8 +1,8 @@
 
-### I focus dev using Laravel & Vuejs Frameworks
+### I focus dev using Laravel 
 
 
-### Languages & Tools
+### Frameworks </>
 
 
 
@@ -10,20 +10,10 @@
 
   <div align="center">
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="35" src="https://cdn.svgporn.com/logos/php.svg"></code>
-  <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="35" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  <code><img height="35" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-  <code><img height="35" src="https://cdn.svgporn.com/logos/sass.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+  </code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"></code>
+  
   </div>
   </p>
 
@@ -44,8 +34,6 @@
 ---
 
  
-### 📫 How to reach me:
-
-- Email: masterfiras101@gmail.com
+### 🌐
 - Portfolio:[masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
   
