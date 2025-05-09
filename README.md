@@ -45,16 +45,20 @@
 ---
 
 
-
-<div align="center" style="margin: 20px 0;">
 ## 🌐 Portfolio & Contact
-  
-<a href="https://masterfiras101.github.io/portfolio/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/8A2BE2/portfolio.png" alt="Portfolio" width="50" style="margin: 0 10px;"/>
-</a>
+<div align="center" style="margin: 20px 0;">
 
+<a href="https://masterfiras101.github.io/portfolio/" target="_blank">
+  <img 
+    src="https://img.icons8.com/dusk/64/8A2BE2/portfolio.png" 
+    alt="Portfolio" 
+    width="50" 
+    style="margin: 0 10px; transition: transform 0.3s;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</a>
 <a href="mailto:masterfiras101@gmail.com">
   <img src="https://img.icons8.com/color/48/D14836/gmail-new.png" alt="Email" width="50" style="margin: 0 10px;"/>
 </a>
-
 </div>
