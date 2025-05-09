@@ -45,12 +45,8 @@
 ---
 
 
-## 🌐 Portfolio & Contact
+## 🌐 Portfolio
 <div align="center" style="margin: 20px 0;">
 
-<div align="center">
-  🌐 [masterfiras101.github.io](https://masterfiras101.github.io/portfolio/) |
-  📧| [masterfiras101@gmail.com](mailto:masterfiras101@gmail.com) |
-
-</div>
+  [masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
 </div>
