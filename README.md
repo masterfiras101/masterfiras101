@@ -1,12 +1,4 @@
-# 🚀 Laravel Developer
-
-<div align="center">
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"></code>
-  &nbsp;
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js"></code>
-  &nbsp;
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"></code>
-</div>
+#  Laravel Developer
 
 ## 🔧 Technical Stack
 
