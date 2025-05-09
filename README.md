@@ -24,11 +24,9 @@
 <div align="center">
   
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masterfiras101&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterfiras101&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
-
-
-![Portfolio](https://api.screenshotone.com/take?url=https://masterfiras101.github.io/portfolio/)
 
 ---
 
