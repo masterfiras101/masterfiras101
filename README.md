@@ -27,6 +27,21 @@
 
 </div>
 
+
+## 🌐 Portfolio Live Preview
+
+<div style="width:100%; height:500px; border-radius:10px; overflow:hidden; box-shadow:0 4px 8px rgba(0,0,0,0.1); margin:20px 0;">
+  
+<iframe 
+  src="https://masterfiras101.github.io/portfolio/" 
+  width="100%" 
+  height="100%"
+  style="border:none;"
+  allowfullscreen>
+</iframe>
+
+</div>
+
 ---
 
 ## 🌐 Portfolio & Contact
