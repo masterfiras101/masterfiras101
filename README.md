@@ -48,10 +48,25 @@
 ## 🌐 Portfolio & Contact
 <div align="center" style="margin: 20px 0;">
 
-<a href="https://masterfiras101.github.io/portfolio/" target="_blank">
-  <img src="https://lottie.host/embed/1a0b3b3e-5f3a-4a7b-bb0e-9e0e3e3e3e3e/portfolio.json" alt="Portfolio" width="60" style="margin: 0 10px;"/>
-</a>
+ <a href="https://masterfiras101.github.io/portfolio/" class="pulsing-icon">
+    <svg width="80" height="80" viewBox="0 0 24 24">
+      <!-- SVG content with location marker -->
+      <path fill="#8A2BE2" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </svg>
+  </a>
+
 <a href="mailto:masterfiras101@gmail.com">
   <img src="https://img.icons8.com/color/48/D14836/gmail-new.png" alt="Email" width="50" style="margin: 0 10px;"/>
 </a>
 </div>
+<style>
+.pulsing-icon {
+  animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
