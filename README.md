@@ -49,7 +49,7 @@
 <div align="center" style="margin: 20px 0;">
 
 <a href="https://masterfiras101.github.io/portfolio/" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/8A2BE2/portfolio.png" alt="Portfolio" width="55" style="margin: 0 10px;"/>
+  <img src="https://lottie.host/embed/1a0b3b3e-5f3a-4a7b-bb0e-9e0e3e3e3e3e/portfolio.json" alt="Portfolio" width="60" style="margin: 0 10px;"/>
 </a>
 <a href="mailto:masterfiras101@gmail.com">
   <img src="https://img.icons8.com/color/48/D14836/gmail-new.png" alt="Email" width="50" style="margin: 0 10px;"/>
