@@ -48,9 +48,11 @@
 ## 🌐 Portfolio & Contact
 <div align="center" style="margin: 20px 0;">
 
-[![Portfolio](https://img.shields.io/badge/✨_Live_Portfolio-8A2BE2?style=for-the-badge)](https://masterfiras101.github.io/portfolio/)
+<div align="center">
+|  #      |  link         |
+|---------|---------------------|
+| 🌐      | [masterfiras101.github.io](https://masterfiras101.github.io/portfolio/) |
+| 📧      | [masterfiras101@gmail.com](mailto:masterfiras101@gmail.com) |
 
-<a href="mailto:masterfiras101@gmail.com">
-  <img src="https://img.icons8.com/color/48/D14836/gmail-new.png" alt="Email" width="50" style="margin: 0 10px;"/>
-</a>
+</div>
 </div>
