@@ -23,8 +23,22 @@
 
 <div align="center">
   
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masterfiras101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterfiras101&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+ 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div style="width: 400px;">
+
+![أهم اللغات](https://github-readme-stats.vercel.app/api/top-langs/?username=masterfiras101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2)
+
+</div>
+
+<div style="width: 400px;">
+
+![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=masterfiras101&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+
+</div>
+
+</div>
 
 </div>
 
