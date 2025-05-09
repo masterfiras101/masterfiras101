@@ -44,11 +44,17 @@
 
 ---
 
-## 🌐 Portfolio & Contact
 
-<div align="center">
+
+<div align="center" style="margin: 20px 0;">
+## 🌐 Portfolio & Contact
   
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2?style=for-the-badge)](https://masterfiras101.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masterfiras101@gmail.com)
+<a href="https://masterfiras101.github.io/portfolio/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/8A2BE2/portfolio.png" alt="Portfolio" width="50" style="margin: 0 10px;"/>
+</a>
+
+<a href="mailto:masterfiras101@gmail.com">
+  <img src="https://img.icons8.com/color/48/D14836/gmail-new.png" alt="Email" width="50" style="margin: 0 10px;"/>
+</a>
 
 </div>
