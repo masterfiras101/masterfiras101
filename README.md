@@ -1,8 +1,7 @@
 #  Laravel Developer
 
-## 🔧 Technical Stack
 
-### 🛠 Core Frameworks & Technologies
+### 🛠 Core Frameworks
 
 <div align="center">
   <a href="https://laravel.com" target="_blank">
