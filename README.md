@@ -45,8 +45,5 @@
 ---
 
 
-## 🌐 Portfolio
-<div>
-  
-  [masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
-</div>
+ 🌐 Portfolio [masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
+
