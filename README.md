@@ -23,8 +23,7 @@
 
 <div style="width: 400px;">
 
-![أهم اللغات](https://github-readme-stats.vercel.app/api/top-langs/?username=masterfiras101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2)
-
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masterfiras101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2)
 </div>
 
 
