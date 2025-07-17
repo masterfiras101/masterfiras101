@@ -1,4 +1,4 @@
-###  Software Developer
+###  Software Engineer
 
 ---
 ### 🪄 Core Frameworks
@@ -18,19 +18,10 @@
   </a>
 
 
----
-<div align="center">
 
-<div style="width: 400px;">
-
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masterfiras101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=repo1,repo2)
-</div>
-
-
-</div>
 
 ---
 
 
- 🌐 Portfolio [masterfiras101.github.io](https://masterfiras101.github.io/portfolio/)
+ 🌐 [Portfolio](https://masterfiras101.github.io/portfolio/)
 
