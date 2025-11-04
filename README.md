@@ -1,7 +1,7 @@
 ###  Software Engineer
 
 ---
-### 🪄 Core Frameworks
+### Frameworks
 
 -
   <a href="https://laravel.com" target="_blank">
@@ -17,7 +17,7 @@
   </a>
 
 ---
-### 🐳 DevOps
+### DevOps
 
 -
   <a href="https://www.docker.com" target="_blank">
