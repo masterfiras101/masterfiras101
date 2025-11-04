@@ -15,11 +15,11 @@
   <a href="https://flutter.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="35" />
   </a>
+
+---
+### 🐳 DevOps
+
 -
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="35" />
   </a>
-
-
-
-
