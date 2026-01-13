@@ -9,7 +9,7 @@
   </a>
 -  
   <a href="https://vuejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" alt="Vue.js" height="35" />
   </a>
 -
   <a href="https://flutter.dev" target="_blank">
